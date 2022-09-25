@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RexKart_EcommApp/static/css/main.5e9c810b.css",
+    "main.js": "/RexKart_EcommApp/static/js/main.650ea4bf.js",
+    "index.html": "/RexKart_EcommApp/index.html",
+    "main.5e9c810b.css.map": "/RexKart_EcommApp/static/css/main.5e9c810b.css.map",
+    "main.650ea4bf.js.map": "/RexKart_EcommApp/static/js/main.650ea4bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e9c810b.css",
+    "static/js/main.650ea4bf.js"
+  ]
+}
