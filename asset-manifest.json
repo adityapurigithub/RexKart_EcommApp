@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RexKart_EcommApp/home/static/css/main.5e9c810b.css",
-    "main.js": "/RexKart_EcommApp/home/static/js/main.c95c553a.js",
-    "index.html": "/RexKart_EcommApp/home/index.html",
-    "main.5e9c810b.css.map": "/RexKart_EcommApp/home/static/css/main.5e9c810b.css.map",
-    "main.c95c553a.js.map": "/RexKart_EcommApp/home/static/js/main.c95c553a.js.map"
+    "main.css": "/RexKart_EcommApp/static/css/main.5e9c810b.css",
+    "main.js": "/RexKart_EcommApp/static/js/main.591d4b6e.js",
+    "index.html": "/RexKart_EcommApp/index.html",
+    "main.5e9c810b.css.map": "/RexKart_EcommApp/static/css/main.5e9c810b.css.map",
+    "main.591d4b6e.js.map": "/RexKart_EcommApp/static/js/main.591d4b6e.js.map"
   },
   "entrypoints": [
     "static/css/main.5e9c810b.css",
-    "static/js/main.c95c553a.js"
+    "static/js/main.591d4b6e.js"
   ]
 }
